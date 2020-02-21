@@ -1,0 +1,1 @@
+#### A quick cod along led by Brad Traversy to practice DOM manipulation.
